@@ -1,0 +1,15 @@
+a:link {
+    color: rgb(19, 19, 178);
+    text-decoration: underline;
+}
+
+table,
+tr,
+th,
+td,
+caption {
+    border: 1px solid #eee;
+    font-family: "Courier New", Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
